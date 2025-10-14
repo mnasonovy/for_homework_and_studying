@@ -1,6 +1,6 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include <stdio.h>   // подключаем заголовочный файл для ввода-вывода
 
-int main(){
-    printf("Hello World\n");
+int main(void) {
+    printf("Hello, World! \n");  // вывод строки на экран
+    return 0;                   // возвращаем 0, обозначая успешное завершение
 }
