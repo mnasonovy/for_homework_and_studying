@@ -6,4 +6,5 @@ int main() {
     scanf("%d %d", &x, &y);
     int result = x + y;
     printf("Result of %d and %d equils %d\n", x, y, result);
+
 }
